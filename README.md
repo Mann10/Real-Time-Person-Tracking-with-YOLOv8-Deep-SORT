@@ -20,7 +20,7 @@ cd real-time-person-tracking
 ### 2. Install Dependencies
 Ensure you have Python 3.8+ installed. Then, run:
 ```bash
-pip install -r requirements.txt
+pip install ultralytics opencv-python deep-sort-realtime numpy
 ```
 
 #### Dependencies include:
