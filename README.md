@@ -49,7 +49,7 @@ python tracking.py
 4. **Video is displayed in real-time**, press **'q'** to exit.
 
 ## Example Output
-![Tracking Example](https://via.placeholder.com/800x400.png?text=Tracking+Example)
+![](https://github.com/Mann10/Real-Time-Person-Tracking-with-YOLOv8-Deep-SORT/blob/main/pt.gif)
 
 ## Future Enhancements
 - Multi-camera tracking support.
